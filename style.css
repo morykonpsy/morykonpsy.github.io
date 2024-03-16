@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,100..900;1,100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.text-caps {
+    font-family: "Inter", sans-serif;
+}
+
+.footerclass {
+    background-color: rgb(255, 255, 255);
+}
+
+.noblue {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    font-family: "Noto Sans Display", sans-serif;
+}
